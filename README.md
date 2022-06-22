@@ -6,4 +6,3 @@ also there is a fast augmentation which make theese changes randomly.
 Collaboration with DorsaNazari and Ali Motalebi
 
 final AP project of amirkabir university of technology
-superviser : Dr Amir Jahanshahi
